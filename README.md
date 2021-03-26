@@ -9,3 +9,8 @@ Since Git might read the same configuration variable value from more than one fi
 
 $ git config --show-origin rerere.autoUpdate
 file:/home/johndoe/.gitconfig	false
+
+see how use freenode for chat and ask people which is in section 1.7
+
+Ended Chapter1 Getting-started
+//----------------------------------------------------------------------------------------

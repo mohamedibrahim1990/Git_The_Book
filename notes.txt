@@ -1,3 +1,15 @@
 You can view all of your settings and where they are coming from using:
 
 $ git config --list --show-origin
+
+for help 
+$ git help <verb>
+$ git <verb> --help
+$ man git-<verb>
+
+for short help
+$ git add -h
+
+
+
+
